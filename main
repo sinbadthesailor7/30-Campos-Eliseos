@@ -1,0 +1,7 @@
+echo "# 30-Campos-Eliseos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sinbadthesailor7/30-Campos-Eliseos.git
+git push -u origin main
